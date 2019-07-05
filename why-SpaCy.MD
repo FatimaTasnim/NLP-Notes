@@ -1,0 +1,3 @@
+- It's an industry grade NLP.
+- It has good speed-to-performance trade-off. spaCy is written in Cython, which gives it C-like performance with Python code.
+- spaCy is actively maintained and developed, and incorporates the best methods available for most challenges.
